@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# ML / embeddings / vector DB
+*.npy
+*.bin
+embeddings/
+
+# OS
+.DS_Store
